@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "339172714599",
+    "firebase_url": "https://telmi-e3d14-default-rtdb.firebaseio.com",
+    "project_id": "telmi-e3d14",
+    "storage_bucket": "telmi-e3d14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339172714599:android:e55c6d44778e94d3870cc2",
+        "android_client_info": {
+          "package_name": "com.telmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339172714599-6i5vhatane6im37mfqjknh4b25l91208.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.telmi",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "339172714599-kn0ippkcjjn17ptc539heg1fmt8m9g8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo0EdHqs78XAVWSyDaNRFzeXRQ1QP7RnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339172714599-kn0ippkcjjn17ptc539heg1fmt8m9g8t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "339172714599-0sn0rvp2r6ij7ovagqc5arpolgibq1o9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Telmi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
